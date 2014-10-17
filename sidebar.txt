@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ebu:home|Door43 (ebu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ebu|d43-ebu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ebu/archive/master.zip|d43-ebu.zip]]
+
+**Recent Changes**
+{{changes>ns = ebu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ebu|Ethnologue data]]
+
